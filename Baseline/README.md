@@ -9,7 +9,9 @@ Implementation of BiDAF model for SQuAD 2.0 dataset.
 Setup environment and preprocess data:
 
 conda env create -f environment.yml
+
 conda activate squad
+
 python setup.py
 
 Start training model:
